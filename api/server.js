@@ -7,7 +7,7 @@ const loginRoutes = require('./src/routes/login');
 const postsRoutes = require('./src/routes/posts');
 
 const teste = (req, res) => {
-    res.send('API exemplo JWT com Node.js e Express');
+    res.json({titulo:'API exemplo JWT com Node.js e Express'});
     console.log('Rota de teste acessada');
 }
 
