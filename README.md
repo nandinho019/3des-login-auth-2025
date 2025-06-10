@@ -17,6 +17,8 @@ Estrutura de autenticação para o projeto **Login**.
 - Na pasta **./api**, criar um arquivo **.env **com as seguintes variáveis de ambiente:
 ```js
 SECRET_JWT=f?#cPV9]2sc"}gQhO)Yx7IT1M*zuv&;FVC(vsFAz;]n2tK:T*uH|@Ixrow3bLC+
+USER=usuario@gmail.com
+PASSWD=senha123
 ```
 - Abrir com o VsCode e em um terminal cmd ou bash, executar o comando:
 ```bash
